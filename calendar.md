@@ -1,0 +1,47 @@
+---
+layout: page
+title: 🏠 Home
+description: Listing of course modules and topics.
+nav_order: 1
+permalink: /
+---
+
+# **Data 6: Introduction to Computational Thinking with Data &#x1f4ca;**
+
+{: .mb-2 }
+UC Berkeley, Summer 2025
+{: .mb-2 .fs-6}
+
+[Ed](https://edstem.org/us/courses/64093/discussion/){: .btn .btn-ed}
+[Gradescope](https://www.gradescope.com/courses/835871){: .btn .btn-gradescope}
+[Lecture Recordings](https://bcourses.berkeley.edu/courses/1538208/external_tools/90481){: .btn .btn-bcourses}
+[Jump to Current Week](https://www.data8.org/fa24/#week-1-introduction-to-python){: .btn .btn-currweek}
+
+{: .mb-2 }
+**Instructor**
+{: .mb-0 .fs-5 .text-grey-dk-000 }
+
+{% assign instructors = site.staffers | where: 'role', 'InstructorFront' %}
+
+<div class="role flex">
+{% for staffer in instructors %}
+{{ staffer }}
+{% endfor %}
+</div>
+
+{% include announcements-navigation.html %}
+
+{% assign mods = site.modules | where: 'class', 'Berkeley' %}
+{% assign active-mods = '' | split: '' %}
+
+{% for mod in mods %}
+  {% if mod.status == 'Active' %}
+    {% assign active-mods = active-mods | push: mod %}
+  {% endif %}
+{% endfor %}
+
+{% for module in active-mods %}
+  {{ module }}
+{% endfor %}
+
+<script src="{{ '/assets/scripts/announcement-navigation.js' | relative_url }}"></script>
