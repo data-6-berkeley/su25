@@ -15,7 +15,7 @@ UC Berkeley, Summer 2025
 [Ed](https://edstem.org/us/courses/64093/discussion/){: .btn .btn-ed}
 [Gradescope](https://www.gradescope.com/courses/835871){: .btn .btn-gradescope}
 [Lecture Recordings](https://bcourses.berkeley.edu/courses/1538208/external_tools/90481){: .btn .btn-bcourses}
-[Jump to Current Week](https://www.data8.org/fa24/#week-1-introduction-to-python){: .btn .btn-currweek}
+[Jump to Current Week](https://data6.org/su25/#week-1-introduction-to-python){: .btn .btn-currweek}
 
 {: .mb-2 }
 **Instructor**
