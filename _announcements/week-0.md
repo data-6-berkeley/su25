@@ -4,4 +4,4 @@ week: 0
 date: 2025-06-02
 ---
 
-* More to come!
+* Fill out the welcome survey by the first day of lecture!
