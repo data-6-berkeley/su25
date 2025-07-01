@@ -33,7 +33,7 @@ Jul 10
 : **6**{: .label} Table Fundamentals
     : {{ site.links.lec.slides.slide06 }} {{ site.links.lec.demo.demo06 }} {{ site.links.lec.demo.demo06-blank }} 
 : _Optional Reading:_
-: **Lab 2**{: .label .label-lab} {{ site.links.lab.lab01 }} 
+: **Lab 2**{: .label .label-lab} {{ site.links.lab.lab02 }} 
 
 Jul 11  
 : **Discussion 1**{: .label .label-discussion} Fractions & Health Data
