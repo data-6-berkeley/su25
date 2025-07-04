@@ -97,7 +97,7 @@
       color: $grey-dk-300;
     }
 
-    &.section {
+    &.discussion {
       background-color: darken($purple-000, 15%);
     }
 
@@ -106,6 +106,10 @@
     }
 
     &.office-hours {
+      background-color: darken($green-200, 10%);
+    }
+
+    &.lab {
       background-color: darken($green-200, 10%);
     }
   }

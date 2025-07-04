@@ -241,8 +241,8 @@ links:
 
   lec:
     demo:
-      demo01: "&#8226; Demo"
-      demo01-blank: "&#8226; Blank Demo"
+      demo01: 
+      demo01-blank: 
       demo02: "&#8226; Demo"
       demo02-blank: "&#8226; Blank Demo"
       demo03: "&#8226; Demo"

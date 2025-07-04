@@ -39,10 +39,6 @@ schedule:
         location: Genetics & Plant Bio 107
   - name: Wednesday
     events:
-      - name: Office Hours
-        start: 9:00 AM
-        end: 10:00 AM
-        location: Genetics & Plant Bio 107
       - name: Lecture
         start: 10:10 AM
         end: 12:00 PM
@@ -57,16 +53,8 @@ schedule:
         start: 11:10 AM
         end: 12:00 PM
         location: Genetics & Plant Bio 107
-      - name: Office Hours
-        start: 5:00 PM
-        end: 7:00 PM
-        location: SLC
   - name: Friday
     events:
-      - name: Coffee Chats
-        start: 9:00 AM
-        end: 10:00 AM
-        location: Caffe Strada
       - name: Discussion
         start: 10:10 AM
         end: 12:00 PM
