@@ -168,7 +168,7 @@ Here's how we will calculate your final grade:
 | Homeworks | 20% | 4 homeworks (5% each) |
 | Final Project | 20% | Releases in Week 5 |
 | Quiz | 15% | 1 quiz (15%) |
-| Final Exam | 25% | August 15 |
+| Final Exam | 15% | August 15 |
 
 ### Participation
 Your participation in the course is important both for your learning and that of your peers. In order to incentivize your active participation throughout the semester, the “Participation” category of your final grade is worth 5%. This part of your grade will be determined as follows:
