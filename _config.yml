@@ -244,7 +244,7 @@ links:
       demo01: 
       demo01-blank: 
       demo02: "&#8226; Demo"
-      demo02-blank: "&#8226; Blank Demo"
+      demo02-blank: "&#8226;" [Blank Demo](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Flectures%2Flec02%2Flec02-blank.ipynb)
       demo03: "&#8226; Demo"
       demo03-blank: "&#8226; Blank Demo"
       demo04: "&#8226; Demo"
@@ -306,8 +306,8 @@ links:
       demo32: "&#8226; Demo"
       demo32-blank: "&#8226; Blank Demo"
     slides:
-      slide01: "Slides"
-      slide02: "Slides"
+      slide01: [Slides](https://docs.google.com/presentation/d/1z0cir2IWCyai3lnxoel1Ly0zYltaPOO006EGFHTkaT4/edit?usp=sharing)
+      slide02: [Slides](https://docs.google.com/presentation/d/1FJEBbZyclKvTsvTjzKG8S_Kr9xI738AT75Yq2W-mb7U/edit?usp=sharing)
       slide03: "Slides"
       slide04: "Slides"
       slide05: "Slides"
