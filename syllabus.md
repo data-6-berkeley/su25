@@ -109,7 +109,7 @@ You learn data science by **doing** data science, not by just listening to lectu
 
 Homeworks will consist mainly of programming problems that challenge you to apply the skills you learned in recent lectures to accomplish tasks involving real data. The homeworks use autograder tests that will tell you if you are on the right track. There are additional autograder tests that will not be visible to you that we will use to grade your work, so don’t assume that just because the public autograder tests are passing that your answers are all correct. **Always remember to double check your code!** Most homeworks will also include a few written response problems, where you will have to type your answer in text. These problems will be manually graded by a human on course staff, and often there is no single ‘right’ solution. We are mainly looking for you to show understanding of what you are doing and to explain your reasoning behind certain answers.
 
-Homeworks, like all course materials, can be accessed by clicking on the appropriate link on the course website. Clicking on a link to a homework will bring you to your own copy of the homework notebook in DataHub, which allows you to work on the homework online. Once you’re done with the homework, you will run the very last cell in the notebook to generate a `.zip` file, which you will then upload to [Gradescope](https://www.gradescope.com/courses/800533) so that we can grade it. We will go over this process in more detail in lecture.
+Homeworks, like all course materials, can be accessed by clicking on the appropriate link on the course website. Clicking on a link to a homework will bring you to your own copy of the homework notebook in DataHub, which allows you to work on the homework online. Once you’re done with the homework, you will run the very last cell in the notebook to generate a `.zip` file, which you will then upload to [Gradescope](https://www.gradescope.com/courses/1064926) so that we can grade it. We will go over this process in more detail in lecture.
 
 There are 4 homework assignments, which correspond to roughly one every two weeks. In general, homework assignments will be released on Monday and will be due the Thursday on the week after at 11 PM. See the [Policies](#policies-) section for our extensions and late submissions policy, as well as the homework drop policy.
 
@@ -145,9 +145,9 @@ You will be added to Ed automatically, but email us ([data6@berkeley.edu](data6@
 
 We will be using several websites this semester. Here’s what they’re all used for:
 * [Course Website](https://data6.org/su25/): where all content and assignments will be posted.
-* [Ed](https://edstem.org/us/courses/65093/discussion/): discussion forum where all announcements will be sent, and where all student-staff and student-student communication will occur.
+* [Ed](https://edstem.org/us/courses/80458/discussion): discussion forum where all announcements will be sent, and where all student-staff and student-student communication will occur.
 * [DataHub](http://datahub.berkeley.edu/): we use DataHub to host jupyter notebook assignments. Don’t worry too much about how this works, just access all assignments by clicking the link on the Data 6 website.
-* [Gradescope](https://www.gradescope.com/courses/845265): where all homeworks will be submitted and all grades will live. (We don’t use bCourses)
+* [Gradescope](https://www.gradescope.com/courses/1064926): where all homeworks will be submitted and all grades will live. (We don’t use bCourses)
 
 Since all Data 6 material is accessible online, there are no requirements in terms of specific computer hardware. All you need is a laptop with internet and a web browser (Google Chrome or Firefox tend to work best). If you looking to purchase a laptop for college, Prof. Lisa Yan put together this [helpful guide](https://docs.google.com/document/d/1avUDkT5yvW_XycvVYP9LevJP791a9CdxuCAzQB1tYfc/edit?usp=sharing).
 

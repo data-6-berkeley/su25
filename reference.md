@@ -22,7 +22,7 @@ If you're new to reading documentation, looking at the Data 6 Python Reference m
 
 However, we do expect you to understand how to use the Python Reference to understand new functions, and to help with debugging when things go wrong. Learning how to read and understand documentation is a key to becoming a good data scientist. In fact, even course staff continue to use the Python Reference to refresh their memory about certain functions.
 
-Of course, the Python Reference can only provide information about the basics of the functions you'll use in Data 6. The best knowledge about functions comes from using these functions in code you write in labs or homeworks. If you get stuck when using a certain function, we encourage you to come to office hours or ask a question on [Ed](https://edstem.org/us/courses/60192/).
+Of course, the Python Reference can only provide information about the basics of the functions you'll use in Data 6. The best knowledge about functions comes from using these functions in code you write in labs or homeworks. If you get stuck when using a certain function, we encourage you to come to office hours or ask a question on [Ed](https://edstem.org/us/courses/80458/discussion).
 
 ### The Anatomy of a Function
 
