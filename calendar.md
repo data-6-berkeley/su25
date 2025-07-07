@@ -6,7 +6,7 @@ nav_order: 1
 permalink: /
 ---
 
-# **Data 6: Introduction to Computational Thinking with Data &#x1f4ca;**
+# **Data 6: Introduction to Computational Thinking with Data Science and Society &#x1f4ca;**
 
 {: .mb-2 }
 UC Berkeley, Summer 2025
