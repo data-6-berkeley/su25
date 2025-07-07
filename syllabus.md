@@ -69,12 +69,12 @@ The full schedule is available on the [Schedule](https://data6.org/su25/schedule
 ## Course Components	&#x1F4D2;
 We do our best to make sure that we spend enough time on each concept, and that the material is approachable for all students. But if you feel like things are going too fast, let us know and we will try to slow down!
 
-Part of making sure that we're providing the best learning experience for you is checking in on your progress and getting feedback about the pace of the class. Each week, we will send out a survey asking for your feedback on how comfortable you are with the previous week's concepts and how we can better support you going forward. Responding to the weekly surveys constitutes 2.5% of your [final grade](https://data6.org/fa24/syllabus/#grading), but the surveys are graded on completion. The surveys will be anonymous and we encourage you to be honest about how you're feeling and how you're doing in the class so we can better support you.
+Part of making sure that we're providing the best learning experience for you is checking in on your progress and getting feedback about the pace of the class. Each week, we will send out a survey asking for your feedback on how comfortable you are with the previous week's concepts and how we can better support you going forward. Responding to the weekly surveys constitutes 2.5% of your [final grade](https://data6.org/su25/syllabus/#grading), but the surveys are graded on completion. We encourage you to be honest about how you're feeling and how you're doing in the class so we can better support you.
 
 All of the course components (lectures, labs, discussions, homeworks, office hours, and quizzes/exams) are designed to provide valuable learning experiences and help you master core concepts in data science and computing.      
 
 ### Lecture
-There will be three days for lectures per week. In lecture, we’ll introduce you to new ideas and concepts in programming and data science. All lecture resources (slides, code, supplemental readings) will be linked on the course website. We will begin on [Berkeley Time](https://www.sfgate.com/bayarea/article/Berkeley-Time-10-minutes-late-university-policy-13182558.php) (10 minutes after the hour), and **attendance is mandatory**. In the event that you have to miss a lecture, let us know via email.
+There will be four days for lectures per week. In lecture, we’ll introduce you to new ideas and concepts in programming and data science. All lecture resources (slides, code, supplemental readings) will be linked on the course website. We will begin on [Berkeley Time](https://www.sfgate.com/bayarea/article/Berkeley-Time-10-minutes-late-university-policy-13182558.php) (10 minutes after the hour), and **attendance is mandatory**. In the event that you have to miss a lecture, let us know via email.
 
 During each lecture, there will be a few points at which we stop and ask you to answer a short question. We call these questions **Quick Checks**. They serve two purposes:
 * For us to gauge how well the class understands the material we’re currently covering
@@ -85,7 +85,7 @@ During each lecture, there will be a few points at which we stop and ask you to 
 In some lecture notebooks, we will post optional practice problems. These are not required, but we recommend that you complete them.
 
 ### Lab
-Lab notebooks will give you an opportunity to apply the concepts you learn in lecture to real-world data and to practice coding in Python. We will be working on the lab notebooks together during lecture time on Wednesday, where we aim to finish the bulk of the lab (if not all of it).
+Lab notebooks will give you an opportunity to apply the concepts you learn in lecture to real-world data and to practice coding in Python. We will be working on the lab notebooks together during lecture time on Tuesday and Thursday, where we aim to finish the bulk of the lab (if not all of it).
 
 Labs are graded on correctness and will be due the same day they are released, although we will offer a one-day grace period for submissions.
 
@@ -94,7 +94,7 @@ Labs are graded on correctness and will be due the same day they are released, a
 Reading assignments will be released on Monday and due on Thursday the following week at 11 PM. The reading assignments are meant to be reflective in nature and designed to complement the content covered each week in lecture with a focus on ethical and social issues. These readings will be helpful for your discussion section.
 
 ### Discussion
-Each Friday, we will have a discussion section led by your [uGSI](https://data6.org/fa24/staff/#undergraduate-student-instructors-ugsis).
+Each Friday, we will have a discussion section led by your [uGSI](https://data6.org/su25/staff/#undergraduate-student-instructors-ugsis).
 
 Discussions across the term will be separated into two "tracks". Social sciences and technical discussions.
 
@@ -111,7 +111,7 @@ Homeworks will consist mainly of programming problems that challenge you to appl
 
 Homeworks, like all course materials, can be accessed by clicking on the appropriate link on the course website. Clicking on a link to a homework will bring you to your own copy of the homework notebook in DataHub, which allows you to work on the homework online. Once you’re done with the homework, you will run the very last cell in the notebook to generate a `.zip` file, which you will then upload to [Gradescope](https://www.gradescope.com/courses/800533) so that we can grade it. We will go over this process in more detail in lecture.
 
-There are 4 homework assignments, which correspond to roughly one every four weeks. In general, homework assignments will be released on Monday and will be due the Thursday on the week after at 11 PM. See the [Policies](#policies-) section for our extensions and late submissions policy, as well as the homework drop policy.
+There are 4 homework assignments, which correspond to roughly one every two weeks. In general, homework assignments will be released on Monday and will be due the Thursday on the week after at 11 PM. See the [Policies](#policies-) section for our extensions and late submissions policy, as well as the homework drop policy.
 
 Homework assignments are meant to be completed individually, but we encourage you to discuss approaches with others; see our [Academic Honesty policy](#academic-honesty) below for acceptable forms of collaboration.
 
@@ -119,19 +119,16 @@ Homework assignments are meant to be completed individually, but we encourage yo
 You can think of the final project to be like a more in-depth homework assignment that allows more room for the type of exploration you would do as a data scientist in the real world! More details to come later in the semester.
 
 ### Office Hours and Ed
-In addition to lecture and discussion, we will host office hours each week. In office hours, you will have a chance to ask questions about assignments and work with your peers on problems. You can also ask conceptual questions about lecture material. See the [course schedule](https://www.data6.org/fa24/schedule/) for more details about office hours.
+In addition to lecture and discussion, we will host office hours each week. In office hours, you will have a chance to ask questions about assignments and work with your peers on problems. You can also ask conceptual questions about lecture material. See the [course schedule](https://www.data6.org/su25/schedule/) for more details about office hours.
 
 While office hours are not mandatory, we **highly recommend** attending them regularly. Most students find that office hours help them to work through assignments, and find other students who are working on the same problems. Attending Data 6 office hours is also a great way to familiarize yourself with the office hours environment for a lot of data science and computer science classes, where you will have to rely on working with peers due to a limited number of available TAs.
 
 Aside from office hours, we also encourage you to ask and answer questions about assignments and concepts on Ed. You can think about Ed as “24/7 office hours”. While you shouldn’t be surprised if a member of course staff answers your question at 1 AM, please be patient after posting a question on Ed — we have a lot of questions to answer. It also helps to search Ed to see if someone else has asked a similar question, and if that question has already been answered.
 
 ### Quizzes and Exams
-This course does not have a midterm. Instead, we will have two short quizzes in class, each worth 10% of your final grade. Quizzes are **not** cumulative, so they will focus only on (roughly) the past two weeks worth of lecture content. Quizzes are intended to test your understanding of key concepts, but are not intended to ‘trick’ you. We will also hold review sessions during discussion before each quiz to help you prepare. The dates for the quizzes are:
+This course does not have a midterm. Instead, we will have one short quiz in class, worth 15% of your final grade. The quiz is intended to test your understanding of key concepts, but are not intended to ‘trick’ you. We will also hold review sessions during discussion before each quiz to help you prepare. The dates for the quiz is TBD.
 
-* Quiz 1: Monday, October 7th
-* Quiz 2: Friday, November 15th
-
-We will have a final exam during the campus-assigned slot: **Friday December 20th, 3PM-6PM.** The exam is worth 20% of your grade, and **taking the exam is a requirement for passing the class.** Unlike the quizzes, the final exam will be cumulative.
+We will have a final exam during the campus-assigned slot: TBD on time and location. The exam is worth 20% of your grade, and **taking the exam is a requirement for passing the class.** Unlike the quizzes, the final exam will be cumulative.
 
 We will post more details about quizzes and exams on Ed.
 
@@ -147,7 +144,7 @@ You will be added to Ed automatically, but email us ([data6@berkeley.edu](data6@
 ## Technology &#x1F4BB;
 
 We will be using several websites this semester. Here’s what they’re all used for:
-* [Course Website](https://data6.org/fa24/): where all content and assignments will be posted.
+* [Course Website](https://data6.org/su25/): where all content and assignments will be posted.
 * [Ed](https://edstem.org/us/courses/65093/discussion/): discussion forum where all announcements will be sent, and where all student-staff and student-student communication will occur.
 * [DataHub](http://datahub.berkeley.edu/): we use DataHub to host jupyter notebook assignments. Don’t worry too much about how this works, just access all assignments by clicking the link on the Data 6 website.
 * [Gradescope](https://www.gradescope.com/courses/845265): where all homeworks will be submitted and all grades will live. (We don’t use bCourses)
@@ -169,9 +166,9 @@ Here's how we will calculate your final grade:
 | Readings | 12% | 5 reading assignments graded on a rubric |
 | Lab | 13% | 10 labs |
 | Homeworks | 20% | 4 homeworks (5% each) |
-| Final Project | 10% | Releases in Week 5 |
-| Quizzes | 20% | 2 quizzes (10% each) |
-| Final Exam | 20% | August 15 |
+| Final Project | 20% | Releases in Week 5 |
+| Quiz | 15% | 1 quiz (15%) |
+| Final Exam | 25% | August 15 |
 
 ### Participation
 Your participation in the course is important both for your learning and that of your peers. In order to incentivize your active participation throughout the semester, the “Participation” category of your final grade is worth 5%. This part of your grade will be determined as follows:
@@ -187,7 +184,7 @@ The surveys will be anonymous and we encourage you to be honest about how you're
 Weekly surveys will be released on Friday and will be due the following Monday. There are no drops for surveys but we will be lenient with their deadlines.  
 
 ### Late Policy and Extensions
-**Homework assignments are due on Gradescope at 11PM on Thursdays. Lab assignments are due on Gradescope at 11 PM on Wednesdays.** We will have a 24-hour grace period to account for any technical difficulties; if you face any issues while submitting, please post on Ed ASAP (ideally before the deadline).
+**Homework assignments are due on Gradescope at 11PM on Thursdays. Lab assignments are due on Gradescope at 11 PM the day they are released.** We will have a 24-hour grace period to account for any technical difficulties; if you face any issues while submitting, please post on Ed ASAP (ideally before the deadline).
 
 If you submit your assignment late and do not have an extension (see below), we will still accept your submission up to two days late with a 30% late penalty per day. So if you scored 90% on a homework and submitted 12 hours after the deadline, your grade for that homework would be 63%. If you submitted 36 hours after the deadline, your grade for that homework would be 36%. We will not accept assignments past two days after the submission deadline.
 
