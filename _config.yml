@@ -204,15 +204,15 @@ links:
 
   lab:
     lab01: "[Using Jupyter Notebooks](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Flab%2Flab01%2Flab01.ipynb)"
-    lab02: "NumPy, Indexing, Working with Data"
+    lab02: "NumPy, Indexing, and Working with Data"
     lab03: "Tables and Data"
     lab04: "Tables"
     lab05: "Introduction to Visualization Methods"
-    lab06: "Visualizing Two Numerical Variables"
-    lab07: "Functions and Control"
-    lab08: "Iterations"
-    lab09: "Randomness, APIs, and Prompt Engineering"
-    lab10: "Tfidf and Cohen's Kappa"
+    lab06: "Visualizing Two Numerical Variables and Randomness" #updated
+    lab07: "Functions, Control, Iteration" # updated
+    lab08: "Dictionaries" # From SU23/SU24
+    lab09: "APIs and Prompt Engineering" # new
+    lab10: "TF-IDF, Cohen's Kappa, and Macro F1" # new
 
   wksht:
     wksht01: "Worksheet 01"
