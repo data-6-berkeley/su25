@@ -197,13 +197,13 @@ exclude:
 
 links:
   hw:
-    hw01: "Introduction to Python"
+    hw01: "[HW 01: Introduction to Python](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Fhw%2Fhw01%2Fhw01.ipynb)"
     hw02: "Table Methods and Functions"
     hw03: "Advanced Table Methods and Visualizations"
     hw04: "Control, Iterations, Strings"
 
   lab:
-    lab01: "[Using Jupyter Notebooks](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Flab%2Flab01%2Flab01.ipynb)"
+    lab01: "[Lab 01: Using Jupyter Notebooks](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Flab%2Flab01%2Flab01.ipynb)"
     lab02: "NumPy, Indexing, and Working with Data"
     lab03: "Tables and Data"
     lab04: "Tables"
