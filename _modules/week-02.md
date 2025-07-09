@@ -23,12 +23,13 @@ Jul 16
 : **10**{: .label} Row Methods, Joining Tables  
     : {{ site.links.lec.slides.slide10 }} {{ site.links.lec.demo.demo10 }} {{ site.links.lec.demo.demo10-blank }}  
 : _Optional Reading:_
-: **11**{: .label} Quiz 1 Review  
+: **11**{: .label} Grouping and Pivoting
     : {{ site.links.lec.slides.slide11 }} {{ site.links.lec.demo.demo11 }} {{ site.links.lec.demo.demo11-blank }}  
 : _Optional Reading:_
 
 Jul 17  
-: **Quiz**{: .label} Quiz 1: Basic Table Methods, Functions  
+: **12**{: .label} More Grouping and Pivoting
+    : {{ site.links.lec.slides.slide12 }} {{ site.links.lec.demo.demo12 }} {{ site.links.lec.demo.demo12-blank }}  
 : **Lab 4**{: .label .label-lab} {{ site.links.lab.lab04 }}
 : **Homework 2**{: .label .label-homework} {{ site.links.hw.hw02 }}  
 

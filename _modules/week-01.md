@@ -14,13 +14,13 @@ Jul 7
 : **Reading**{: .label .label-reading} {{ site.links.reading.reading01 }}  
 
 Jul 8  
-: **3**{: .label} Arrays and Variables  
+: **3**{: .label} Evaluations, Names, and Data Types
     : {{ site.links.lec.slides.slide03 }} {{ site.links.lec.demo.demo03 }} {{ site.links.lec.demo.demo03-blank }}  
 : _Optional Reading:_ [PPDS 1.2](https://www.tomasbeuzen.com/python-programming-for-data-science/chapters/chapter1-basics.html#none), [CP 1.2](https://www.composingprograms.com/pages/12-elements-of-programming.html), [CIT 3.2](https://inferentialthinking.com/chapters/03/2/Names.html), [4.1](https://www.inferentialthinking.com/chapters/04/1/Numbers.html), [4.2](https://inferentialthinking.com/chapters/04/2/Strings.html), [5.1](https://inferentialthinking.com/chapters/05/1/Arrays.html)  
 : **Lab 1**{: .label .label-lab} {{ site.links.lab.lab01 }} 
 
 Jul 9  
-: **4**{: .label} NumPy, Indexing, Working with Data  
+: **4**{: .label} Arrays, NumPy, Indexing, Working with Data
     : {{ site.links.lec.slides.slide04 }} {{ site.links.lec.demo.demo04 }} {{ site.links.lec.demo.demo04-blank }}  
 : _Optional Reading:_ [PPDS 5.2](https://www.tomasbeuzen.com/python-programming-for-data-science/chapters/chapter5-numpy.html?highlight=numpy), [CIT 5.6](https://problemsolvingwithpython.com/05-NumPy-and-Arrays/05.05-Array-Indexing/)  
 : **5**{: .label} Introduction to Social Science Research  
