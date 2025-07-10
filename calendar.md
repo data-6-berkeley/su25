@@ -17,7 +17,7 @@ UC Berkeley, Summer 2025
 [Lecture Recordings](https://bcourses.berkeley.edu/courses/1546002/external_tools/90481){: .btn .btn-bcourses}
 [Jump to Current Week](https://data6.org/su25/#week-1-introduction-to-python){: .btn .btn-currweek}
 
-**Instructor**
+## Instructor
 
 {% assign instructors = site.staffers | where: 'role', 'InstructorFront' %}
 

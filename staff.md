@@ -16,7 +16,7 @@ nav_order: 4
 <p style="font-size:30px">Please check back soon for an updated staff roster!</p>
 --->
 
-## Instructors
+## Instructor
 
 <div class="role flex">
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
@@ -25,7 +25,7 @@ nav_order: 4
 {% endfor %}
 </div>
 
-## Head Teaching Assistants
+## Head Teaching Assistant
 
 {% assign head_teaching_assistants = site.staffers | where: 'role', '20-hour Lead uGSI (UCS2)' %}
 {% assign num_head_teaching_assistants = head_teaching_assistants | size %}
@@ -38,7 +38,7 @@ nav_order: 4
 {% endif %}
 </div>
 
-## Teaching Assistants
+## Teaching Assistant
 
 {% assign teaching_assistants = site.staffers | where: 'role', 'uGSI (UCS2)' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
