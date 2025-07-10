@@ -58,5 +58,5 @@ schedule:
       - name: Discussion
         start: 10:10 AM
         end: 12:00 PM
-        location: SOCS 166 & 170
+        location: SOCS 170
 ---

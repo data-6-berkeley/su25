@@ -5,6 +5,7 @@ date: 2025-07-06
 ---
 
 1. **Assignments Due**
+    * Introduce yourself on [Edstem](https://edstem.org/us/courses/80458/discussion/6809103)!!!
     * {{site.links.lab.lab01}} is due on *<u>Tuesday</u> July 8 @ 11 PM*
     * {{site.links.lab.lab02}} is due on *<u>Thursday</u> July 10 @ 11 PM*
     * {{ site.links.survey.survey00 }}  is due on *<u>Friday</u>, July 11 @ 11 PM*

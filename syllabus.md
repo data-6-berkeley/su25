@@ -163,7 +163,7 @@ Here's how we will calculate your final grade:
 
 | **Component** | **Weight** | **Notes** |
 | Participation | 5% | Completing the weekly surveys, quick checks, and introducing yourself on EdStem |
-| Readings | 12% | 5 reading assignments graded on a rubric |
+| Readings | 12% | 3 reading assignments graded on a rubric |
 | Lab | 13% | 10 labs |
 | Homeworks | 20% | 4 homeworks (5% each) |
 | Final Project | 20% | Releases in Week 5 |
