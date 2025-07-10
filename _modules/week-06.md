@@ -11,6 +11,7 @@ Aug 11
 Aug 12  
 : **30**{: .label} Fun with Plotly  
     : {{ site.links.lec.slides.slide30 }} {{ site.links.lec.demo.demo30 }} {{ site.links.lec.demo.demo30-blank }}
+: *Optional Reading:* [Plotly Documentation](https://plotly.com/python/plotly-express/)
 
 Aug 13  
 : **31**{: .label} Final Review  

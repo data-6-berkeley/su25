@@ -204,7 +204,7 @@ links:
 
   lab:
     lab01: "[Lab 01: Using Jupyter Notebooks](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Flab%2Flab01%2Flab01.ipynb)"
-    lab02: "NumPy, Indexing, and Working with Data"
+    lab02: "[Lab 02: Tables and Data Manipulation](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Flab%2Flab02%2Flab02.ipynb)"
     lab03: "Tables and Data"
     lab04: "Tables"
     lab05: "Introduction to Visualization Methods"
@@ -230,7 +230,7 @@ links:
   
   survey:
     survey00: "[Pre-Semester Survey](https://docs.google.com/forms/d/e/1FAIpQLSe9asLtMi_gYKKuAMaJ3unLN6FtVBm-e2VIm_W8FFF52ALCGw/viewform?usp=sharing&ouid=103402950542338937761)"
-    survey01: "Week 01 Survey"
+    survey01: "[Week 01 Survey](https://docs.google.com/forms/d/e/1FAIpQLSe4XO5XgXcw9QCc4eRyln2m2u27qCcjJ7HW-mVLA-eF4eYBwA/viewform?usp=sharing&ouid=103402950542338937761)"
     survey02: "Week 02 Survey"
     survey03: "Week 03 Survey"
     survey04: "Week 04 Survey"
