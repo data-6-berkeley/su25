@@ -30,7 +30,5 @@ Jul 24
 : **Lab 6**{: .label .label-lab} {{ site.links.lab.lab06 }}
 : **Homework 3**{: .label .label-homework} {{ site.links.hw.hw03 }}  
 
-Jul 25  
-: **Discussion 3**{: .label .label-discussion} Functions & Scope, Join & Pivot Methods  
-    : {{ site.links.wksht.wksht03 }}  
+Jul 25   
 : **Survey**{: .label .label-survey} {{ site.links.survey.survey03 }}
