@@ -34,5 +34,5 @@ Jul 17
 : **Homework 2**{: .label .label-homework} {{ site.links.hw.hw02 }}  
 
 Jul 18   
-    : {{ site.links.wksht.wksht02 }} 
+: **Discussion 4**{: .label .label-discussion}
 : **Survey**{: .label .label-survey} {{ site.links.survey.survey02 }}

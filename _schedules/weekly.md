@@ -24,39 +24,39 @@ schedule:
   - name: Monday
     events:
       - name: Lecture
-        start: 10:10 AM
+        start: 10:00 AM
         end: 12:00 PM
-        location: Genetics & Plant Bio 107
+        location: GPBB 107
   - name: Tuesday
     events:
       - name: Lecture
-        start: 10:10 AM
+        start: 10:00 AM
         end: 11:00 AM
-        location: Genetics & Plant Bio 107
+        location: GPBB 107
       - name: Lab
-        start: 11:10 AM
+        start: 11:00 AM
         end: 12:00 PM
-        location: Genetics & Plant Bio 107
+        location: GPBB 107
   - name: Wednesday
     events:
       - name: Lecture
-        start: 10:10 AM
+        start: 10:00 AM
         end: 12:00 PM
-        location: Genetics & Plant Bio 107
+        location: GPBB 107
   - name: Thursday
     events:
       - name: Lecture
-        start: 10:10 AM
+        start: 10:00 AM
         end: 11:00 AM
-        location: Genetics & Plant Bio 107
+        location: GPBB 107
       - name: Lab
-        start: 11:10 AM
+        start: 11:00 AM
         end: 12:00 PM
-        location: Genetics & Plant Bio 107
+        location: GPBB 107
   - name: Friday
     events:
       - name: Discussion
-        start: 10:10 AM
+        start: 10:00 AM
         end: 12:00 PM
         location: SOCS 170
 ---
