@@ -36,8 +36,8 @@ Jul 10
 Jul 11  
 : **Discussion 1**{: .label .label-discussion} Fractions & Health Data
     : {{ site.links.wksht.wksht01 }}
-: **Discussion 2**{: .label .label-discussion} Your Digital Self, Documentation & Table Methods
+: **Discussion 2**{: .label .label-discussion} Python Basics: Names, Operations, Debugging
     : {{ site.links.wksht.wksht02 }}
-: **Discussion 3**{: .label .label-discussion} Functions & Scope, Join & Pivot Methods  
+: **Discussion 3**{: .label .label-discussion} Documentation, Array Operations, & Table Methods  
     : {{ site.links.wksht.wksht03 }} 
 : **Survey**{: .label .label-survey} {{ site.links.survey.survey01 }} 

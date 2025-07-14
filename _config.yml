@@ -205,7 +205,7 @@ links:
   lab:
     lab01: "[Lab 01: Using Jupyter Notebooks](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Flab%2Flab01%2Flab01.ipynb)"
     lab02: "[Lab 02: Tables and Data Manipulation](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Flab%2Flab02%2Flab02.ipynb)"
-    lab03: "Lab 03: Functions"
+    lab03: "Lab 03: Functions" # from Fa24 with no autograder, added to SU25
     lab04: "Lab 04: Tables"
     lab05: "Lab 05: Introduction to Visualization Methods"
     lab06: "Lab 06: Visualizing Two Numerical Variables and Randomness" #updated
@@ -249,8 +249,8 @@ links:
       demo03-blank: "&#8226; [Blank Demo](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Flectures%2Flec03%2Flec03-blank.ipynb)"
       demo04: "&#8226; Demo"
       demo04-blank: "&#8226; [Blank Demo](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Flectures%2Flec04%2Flec04-blank.ipynb)"
-      demo05: "&#8226; Demo"
-      demo05-blank: "&#8226; Blank Demo"
+      demo05: ""
+      demo05-blank: ""
       demo06: "&#8226; Demo"
       demo06-blank: "&#8226; [Blank Demo](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Flectures%2Flec06%2Flec06-blank.ipynb)"
       demo07: "&#8226; Demo"
