@@ -33,7 +33,6 @@ Jul 17
 : **Lab 4**{: .label .label-lab} {{ site.links.lab.lab04 }}
 : **Homework 2**{: .label .label-homework} {{ site.links.hw.hw02 }}  
 
-Jul 18  
-: **Discussion 2**{: .label .label-discussion} Your Digital Self, Documentation & Table Methods  
-    : {{ site.links.wksht.wksht02 }} 
+Jul 18   
+: **Discussion 4**{: .label .label-discussion}
 : **Survey**{: .label .label-survey} {{ site.links.survey.survey02 }}
