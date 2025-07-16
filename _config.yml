@@ -198,14 +198,14 @@ exclude:
 links:
   hw:
     hw01: "[HW 01: Introduction to Python](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Fhw%2Fhw01%2Fhw01.ipynb)"
-    hw02: "Table Methods and Functions"
-    hw03: "Advanced Table Methods and Visualizations"
-    hw04: "Control, Iterations, Strings"
+    hw02: "[HW 02: Table Methods and Functions](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Fhw%2Fhw02%2Fhw02.ipynb)"
+    hw03: "HW 03: Advanced Table Methods and Visualizations"
+    hw04: "HW 04: Control, Iterations, Strings"
 
   lab:
     lab01: "[Lab 01: Using Jupyter Notebooks](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Flab%2Flab01%2Flab01.ipynb)"
     lab02: "[Lab 02: Tables and Data Manipulation](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Flab%2Flab02%2Flab02.ipynb)"
-    lab03: "Lab 03: Functions" # from Fa24 with no autograder, added to SU25
+    lab03: "[Lab 03: Functions](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Flab%2Flab03%2Flab03.ipynb)" # from Fa24 with no autograder, added autograder to SU25
     lab04: "Lab 04: Tables"
     lab05: "Lab 05: Introduction to Visualization Methods"
     lab06: "Lab 06: Visualizing Two Numerical Variables and Randomness" #updated
