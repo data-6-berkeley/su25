@@ -36,7 +36,7 @@ schedule:
       - name: Office Hours
         start: 9:00 AM
         end: 10:00 AM
-        location: SLC
+        location: GPBB 107
       - name: Lecture
         start: 10:00 AM
         end: 11:00 AM
@@ -70,7 +70,7 @@ schedule:
       - name: Office Hours
         start: 9:00 AM
         end: 10:00 AM
-        location: SLC
+        location: GPBB 107
       - name: Discussion
         start: 10:00 AM
         end: 12:00 PM
