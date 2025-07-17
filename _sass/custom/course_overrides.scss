@@ -269,3 +269,24 @@
     @include btn-color($white, #1863c1);
   }
 
+.custom-code {
+  background-color: $code-background-color;
+  color: $code-color;
+  padding: 1em;
+  border-radius: 6px;
+  overflow-x: auto;
+  font-family: SFMono-Regular, Consolas, Menlo, monospace;
+  font-size: 0.95em;
+  line-height: 1.5;
+  white-space: pre;
+  margin: 1em 0;
+  box-shadow: inset 4px 0 0 $project-color; // pinkish highlight
+  border: 1px solid $grey-lt-200;
+}
+
+.custom-code code {
+  background: none;
+  color: inherit;
+  padding: 0;
+  display: block;
+}

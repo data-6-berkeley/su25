@@ -1,47 +1,12 @@
 ---
 layout: page
-title: Python Reference
-description: >-
-    Python Reference Guide
+title: Exam Cheat Sheet
+tagline: Cheat sheet for quizzes and exams
+nav_exclude: true
 ---
 
-# Python Reference &#x1F40D;
-{:.no_toc}
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
-## Understanding the Python Reference
-
-If you're new to reading documentation, looking at the Data 6 Python Reference might feel a little overwhelming, but don't worry — the point of this class is *not* to memorize all of these functions or their arguments. For exams and quizzes, you will be provided with a reference sheet that contains all of the functions you may need on the exam.
-
-However, we do expect you to understand how to use the Python Reference to understand new functions, and to help with debugging when things go wrong. Learning how to read and understand documentation is a key to becoming a good data scientist. In fact, even course staff continue to use the Python Reference to refresh their memory about certain functions.
-
-Of course, the Python Reference can only provide information about the basics of the functions you'll use in Data 6. The best knowledge about functions comes from using these functions in code you write in labs or homeworks. If you get stuck when using a certain function, we encourage you to come to office hours or ask a question on [Ed](https://edstem.org/us/courses/80458/discussion).
-
-### The Anatomy of a Function
-<pre role="region" aria-label="Python code example" tabindex="0" class="custom-code">
-<code class="language-python">
-def my_function(num):
-    return num ** 3
-</code>
-</pre>
-
-In the function above, `my_function` is the name of the function, which takes one argument called `num`. The data type of the input is an **int** or **float**, and the function returns the number raised to the power 3, which is also an **int** or **float**.
-
-### How to Read These Tables
-
-* The **Function** column tells you how to call the function and what arguments it accepts. Everything written in `this font` is code or refers to a particular argument in the function (e.g. `num` in `np.sqrt(num)`).
-* The **Description** column gives you a brief description of what the function does, including what each argument is used for
-* The **Input** column tells you what data type each argument needs to be. If you're getting a `TypeError`, it might be because your inputs are of the wrong type. Data types are indicated in bold (e.g. **string** or **Table**).
-* The **Output** column tells you what the function returns and what data type it is.
-
-<hr>
+# Data 6 Python Cheat Sheet
+_This cheat sheet has been modified from the Data 6 Python Reference and includes all of the functions and table methods that you will need for the exams._
 
 ## Built-In Python Functions
 
@@ -130,8 +95,3 @@ These functions can be passed in as the second argument to `tbl.where(..)` and a
 |  `are.strictly_between(x,y)` |	Greater than `x` and less than `y` |
 | `are.contained_in(A)` |	True if it is a substring of `A  (if `A` is a **string**) or an element of `A` (if `A` is an **array**) |
 | `are.containing(S)` |	Contains the string `S` |
-
-
-## More Documentation
-
-The Data 6 Python reference guide is based on the Data 8 [Python Reference](https://www.data8.org/sp25/reference/). More detailed Python documentation is available [here](https://docs.python.org/3/).
