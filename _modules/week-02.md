@@ -34,5 +34,8 @@ Jul 17
 : **Homework 2**{: .label .label-homework} {{ site.links.hw.hw02 }}  
 
 Jul 18   
-: **Discussion 4**{: .label .label-discussion}
+: **Discussion 4**{: .label .label-discussion} Data Privacy, Join, Group, Pivots
+    : {{ site.links.wksht.wksht04 }}
+    : {{ site.links.wksht.wksht05 }}
+: **Discussion 5**{: .label .label-discussion} Functions, Scope, HOF
 : **Survey**{: .label .label-survey} {{ site.links.survey.survey02 }}
