@@ -20,9 +20,9 @@ description: >-
 ## Python Documentation
 
 Learning a new programming language like Python is a lot like learning a new language: you have to learn vocabulary and learn how to string words together to make sentences that are gramatically and syntactically correct. Just like you might use a dictionary to learn the meaning of new words, programmers use **documentation** to understand what functions and data types do and how they operate. Here are documentation sources that are helpful for understanding the functions and objects we use in Data 6:
-* [Data 6 Python Reference Guide](https://data6.org/su24/reference/) (D6PR)
+* [Data 6 Python Reference Guide](https://data6.org/su25/reference/) (D6PR)
   * This has documentation for all of the functions we expect you to know in Data 6. You can use this as your "cheat sheet" while working on assignments. We will also provide a shortened version of the reference guide for the final exam.
-* [Data 8 Python Reference](https://www.data8.org/sp24/reference/) (D8PR)
+* [Data 8 Python Reference](https://www.data8.org/su25/reference/) (D8PR)
   * The Data 6 Python Reference is based off of the Python Reference for Data 8, which contains many of these same functions that we use plus some that are out of scope for this class.
 * [Stanford’s Python Reference](https://cs.stanford.edu/people/nick/py) (SPR)
   * This website is a Python guide written for Stanford’s intro CS class, and is a great reference if you need a refresher on how something works in Python.
@@ -53,9 +53,10 @@ Exams from previous semesters can be found below. These exams may differ slightl
 
 | Semester | Final |
 | -- | -- |
-| Summer 2024 | [Exam](https://data6.org/su24/exams/su24-final.pdf) [(Solutions)](https://data6.org/su24/exams/su24-final-sol.pdf) |
-| Summer 2023 | [Exam](https://data6.org/su24/exams/su23-final.pdf)|
-| Summer 2022 | [Exam](https://data6.org/su24/exams/su22-final.pdf) [(Solutions)](https://data6.org/su24/exams/su22-final-sol.pdf) |
+| Fall 2024 | [Exam](https://data6.org/su25/exams/finals/su25.pdf) [(Solutions)](https://data6.org/su25/exams/finals/su25-sol.pdf) | 
+| Summer 2024 | [Exam](https://data6.org/su25/exams/finals/su24.pdf) [(Solutions)](https://data6.org/su25/exams/finals/su24-sol.pdf) |
+| Summer 2023 | [Exam](https://data6.org/su25/exams/finals/su23.pdf)|
+| Summer 2022 | [Exam](https://data6.org/su25/exams/su22.pdf) [(Solutions)](https://data6.org/su25/exams/su22-sol.pdf) |
 
 ## Other
 
