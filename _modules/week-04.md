@@ -31,6 +31,4 @@ Jul 31
 : **Homework 4**{: .label .label-homework} {{ site.links.hw.hw04 }}  
 
 Aug 1  
-: **Discussion 4**{: .label .label-discussion} Algorithmic Bias, Visualizations  
-    : {{ site.links.wksht.wksht04 }}  
 : **Survey**{: .label .label-survey} {{ site.links.survey.survey04 }}

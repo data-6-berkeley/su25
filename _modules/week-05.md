@@ -28,7 +28,5 @@ Aug 7
     : {{ site.links.lec.slides.slide28 }} {{ site.links.lec.demo.demo28 }} {{ site.links.lec.demo.demo28-blank }}  
 : **Lab 10**{: .label .label-lab} {{ site.links.lab.lab10 }}
 
-Aug 8  
-: **Discussion 5**{: .label .label-discussion} Ethics, Control, Air Quality  
-    : {{ site.links.wksht.wksht05 }}  
+Aug 8   
 : **Survey**{: .label .label-survey} {{ site.links.survey.survey05 }}  
