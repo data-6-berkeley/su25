@@ -199,7 +199,7 @@ links:
   hw:
     hw01: "[HW 01: Introduction to Python](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Fhw%2Fhw01%2Fhw01.ipynb)"
     hw02: "[HW 02: Table Methods and Functions](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Fhw%2Fhw02%2Fhw02.ipynb)"
-    hw03: "HW 03: Advanced Table Methods and Visualizations"
+    hw03: "[HW 03: Advanced Table Methods and Visualizations](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Fhw%2Fhw03%2Fhw03.ipynb)"
     hw04: "HW 04: Control, Iterations, Strings"
 
   lab:
