@@ -16,4 +16,6 @@ date: 2025-07-20
     * Tuesday's lab will release on Monday and be due Wednesday @11PM
     * Thursday's lab will release on Wednesday and be Sunday @11PM
 
+3. Tutoring begins this Friday 9-10AM @SOCS 170
+
    
