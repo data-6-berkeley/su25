@@ -63,3 +63,15 @@ nav_order: 4
 {% endfor %}
 {% endif %}
 </div>
+
+<!-- ## Mascots
+{% assign mascots = site.mascots | where: 'role', 'Tutor (UCS1)' %}
+{% assign num_tutors = tutors | size %}
+{% if num_tutors != 0 %}
+
+<div class="role flex">
+{% for staffer in tutors %}
+{{ staffer }}
+{% endfor %}
+{% endif %}
+</div> -->
