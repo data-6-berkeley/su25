@@ -55,7 +55,7 @@ Exams from previous semesters can be found below. These exams may differ slightl
 | -- | -- |
 | Fall 2024 | [Exam](https://data6.org/su25/exams/finals/fa24.pdf) [(Solutions)](https://data6.org/su25/exams/finals/fa24-sol.pdf) | 
 | Summer 2024 | [Exam](https://data6.org/su25/exams/finals/su24.pdf) [(Solutions)](https://data6.org/su25/exams/finals/su24-sol.pdf) |
-| Summer 2023 | [Exam](https://data6.org/su25/exams/finals/su23.pdf)|
+| Summer 2023 | [Exam](https://data6.org/su25/exams/finals/su23.pdf) [(Solutions)](https://data6.org/su25/exams/finals/su23-sol.pdf) |
 | Summer 2022 | [Exam](https://data6.org/su25/exams/finals/su22.pdf) [(Solutions)](https://data6.org/su25/exams/finals/su22-sol.pdf) |
 
 ## Other
