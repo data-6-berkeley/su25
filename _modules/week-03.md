@@ -30,5 +30,9 @@ Jul 24
 : **Lab 6**{: .label .label-lab} {{ site.links.lab.lab06 }}
 : **Homework 3**{: .label .label-homework} {{ site.links.hw.hw03 }}  
 
-Jul 25   
+Jul 25 
+: **Discussion 4**{: .label .label-discussion} Gini Coefficients
+    : {{ site.links.wksht.wksht06 }}
+: **Discussion 5**{: .label .label-discussion} Visualizations and Algorithmic Bias
+    : {{ site.links.wksht.wksht07 }}
 : **Survey**{: .label .label-survey} {{ site.links.survey.survey03 }}
