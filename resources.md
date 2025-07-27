@@ -58,6 +58,10 @@ Exams from previous semesters can be found below. These exams may differ slightl
 | Summer 2023 | [Exam](https://data6.org/su25/exams/finals/su23.pdf) [(Solutions)](https://data6.org/su25/exams/finals/su23-sol.pdf) |
 | Summer 2022 | [Exam](https://data6.org/su25/exams/finals/su22.pdf) [(Solutions)](https://data6.org/su25/exams/finals/su22-sol.pdf) |
 
+## Exam Questions by Topic
+(Adapted from Data 8)
+{% include resources-content.html %}
+
 ## Other
 
 * The Data 8 [Table Function Visualizer](http://data8.org/interactive_table_functions/) is a great tool to see how `.group` and `.pivot` work.
