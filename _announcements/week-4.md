@@ -20,4 +20,4 @@ date: 2025-07-27
    * If you feel like you want additional practice on a certain topic, you can choose [exam questions by topic](https://data6.org/su25/resources/#exam-questions-by-topic)
    * Practice quizzes (not exams) from previous summers can be taken on [Gradescope](https://www.gradescope.com/courses/1064926)
 
-5. **Tutoring will now be Fridays 9-10AM @SOCS 155**
+4. **Tutoring will now be Fridays 9-10AM @SOCS 155**
