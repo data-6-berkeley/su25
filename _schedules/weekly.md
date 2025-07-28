@@ -26,7 +26,7 @@ schedule:
       - name: Lecture
         start: 10:00 AM
         end: 12:00 PM
-        location: GPBB 107
+        location: Dwinelle 219
       - name: Office Hours
         start: 6:00 PM
         end: 8:00 PM
@@ -40,11 +40,11 @@ schedule:
       - name: Lecture
         start: 10:00 AM
         end: 11:00 AM
-        location: GPBB 107
+        location: Dwinelle 219
       - name: Lab
         start: 11:00 AM
         end: 12:00 PM
-        location: GPBB 107
+        location: Dwinelle 219
       - name: Office Hours
         start: 6:00 PM
         end: 8:00 PM
@@ -58,17 +58,17 @@ schedule:
       - name: Lecture
         start: 10:00 AM
         end: 12:00 PM
-        location: GPBB 107
+        location: Dwinelle 219
   - name: Thursday
     events:
       - name: Lecture
         start: 10:00 AM
         end: 11:00 AM
-        location: GPBB 107
+        location: Dwinelle 219
       - name: Lab
         start: 11:00 AM
         end: 12:00 PM
-        location: GPBB 107
+        location: Dwinelle 219
   - name: Friday
     events:
       - name: Discussion

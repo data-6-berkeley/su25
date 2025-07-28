@@ -15,7 +15,7 @@ UC Berkeley, Summer 2025
 [Ed](https://edstem.org/us/courses/80458/discussion){: .btn .btn-ed}
 [Gradescope](https://www.gradescope.com/courses/1064926){: .btn .btn-gradescope}
 [Lecture Recordings](https://bcourses.berkeley.edu/courses/1546002/external_tools/90481){: .btn .btn-bcourses}
-[Jump to Current Week](https://data6.org/su25/#week-3-visualization-and-grouping){: .btn .btn-currweek}
+[Jump to Current Week](https://data6.org/su25/#week-4-control-and-iteration){: .btn .btn-currweek}
 
 ## Instructor
 
