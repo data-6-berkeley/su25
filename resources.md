@@ -51,12 +51,12 @@ Claus Wilke's book that covers the basics of how to tell informative and ethical
 ## Past Exams
 Exams from previous semesters can be found below. These exams may differ slightly in terms of material covered and syntax used, as the `datascience` library and Data 6 curriculum has changed over time.
 
-| Semester | Final |
-| -- | -- |
-| Fall 2024 | [Exam](https://data6.org/su25/exams/finals/fa24.pdf) [(Solutions)](https://data6.org/su25/exams/finals/fa24-sol.pdf) | 
-| Summer 2024 | [Exam](https://data6.org/su25/exams/finals/su24.pdf) [(Solutions)](https://data6.org/su25/exams/finals/su24-sol.pdf) |
-| Summer 2023 | [Exam](https://data6.org/su25/exams/finals/su23.pdf) [(Solutions)](https://data6.org/su25/exams/finals/su23-sol.pdf) |
-| Summer 2022 | [Exam](https://data6.org/su25/exams/finals/su22.pdf) [(Solutions)](https://data6.org/su25/exams/finals/su22-sol.pdf) |
+| Semester | Quiz| Final |
+| -- | -- | -- |
+| Fall 2024 | [Quiz](https://data6.org/su25/exams/quizzes/fa24.pdf) [(Solutions)](https://data6.org/su25/exams/quizzes/fa24-sol.pdf) |[Exam](https://data6.org/su25/exams/finals/fa24.pdf) [(Solutions)](https://data6.org/su25/exams/finals/fa24-sol.pdf) | 
+| Summer 2024 | |[Exam](https://data6.org/su25/exams/finals/su24.pdf) [(Solutions)](https://data6.org/su25/exams/finals/su24-sol.pdf) |
+| Summer 2023 | | [Exam](https://data6.org/su25/exams/finals/su23.pdf) [(Solutions)](https://data6.org/su25/exams/finals/su23-sol.pdf) |
+| Summer 2022 | | [Exam](https://data6.org/su25/exams/finals/su22.pdf) [(Solutions)](https://data6.org/su25/exams/finals/su22-sol.pdf) |
 
 ## Exam Questions by Topic
 (Adapted from Data 8)
