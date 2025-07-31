@@ -36,7 +36,7 @@ schedule:
       - name: Office Hours
         start: 9:00 AM
         end: 10:00 AM
-        location: GPBB 107
+        location: Dwinelle 219
       - name: Lecture
         start: 10:00 AM
         end: 11:00 AM
@@ -54,7 +54,7 @@ schedule:
       - name: Jedi Office Hours
         start: 9:00 AM
         end: 10:00 AM
-        location: GPBB 107
+        location: Dwinelle 219
       - name: Lecture
         start: 10:00 AM
         end: 12:00 PM
