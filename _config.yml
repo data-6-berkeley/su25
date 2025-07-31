@@ -200,7 +200,7 @@ links:
     hw01: "[HW 01: Introduction to Python](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Fhw%2Fhw01%2Fhw01.ipynb)"
     hw02: "[HW 02: Table Methods and Functions](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Fhw%2Fhw02%2Fhw02.ipynb)"
     hw03: "[HW 03: Advanced Table Methods and Visualizations](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Fhw%2Fhw03%2Fhw03.ipynb)"
-    hw04: "HW 04: Control, Iterations, Strings"
+    hw04: "[HW 04: Control, Iterations, Strings](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Fhw%2Fhw04%2Fhw04.ipynb)"
 
   lab:
     lab01: "[Lab 01: Using Jupyter Notebooks](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Flab%2Flab01%2Flab01.ipynb)"
@@ -210,7 +210,7 @@ links:
     lab05: "[Lab 05: Introduction to Visualization Methods](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Flab%2Flab05%2Flab05.ipynb)"
     lab06: "[Lab 06: Visualizing Two Numerical Variables and Randomness in Jittering](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Flab%2Flab06%2Flab06.ipynb)" #updated
     lab07: "[Lab 07: Functions, Control, Iteration](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Flab%2Flab07%2Flab07.ipynb)" # updated
-    lab08: "Lab 08: Dictionaries" # From SU23/SU24
+    lab08: "[Lab 08: Dictionaries](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Flab%2Flab08%2Flab08.ipynb)" # From SU23/SU24
     lab09: "Lab 09: APIs and Prompt Engineering" # new
     lab10: "Lab 10: TF-IDF, Cohen's Kappa, and Macro F1" # new
 

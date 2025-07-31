@@ -23,3 +23,5 @@ date: 2025-07-27
 4. **Tutoring will now be Fridays 9-10AM @SOCS 155**
     * [Tutoring 03](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Ftut%2Ftut03%2Ftut03.ipynb)
     * [Tutoring 04](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Ftut%2Ftut04%2Ftut04.ipynb)
+
+5. **Final Exam can clobber your quiz score**
