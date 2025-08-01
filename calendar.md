@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: "&#x1f3e0; Home"
 description: Listing of course modules and topics.
 nav_order: 1
 permalink: /
