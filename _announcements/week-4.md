@@ -12,6 +12,7 @@ date: 2025-07-27
     * {{site.links.lab.lab08}} is due on *<u>Sunday</u> August 3 @ 11 PM*
     * {{site.links.hw.hw04}} is due on *<u>Tuesday</u>, August 5 @ 11 PM*
     * {{ site.links.survey.survey04 }}  is due on *<u>Thursday</u>, August 7 @ 11 PM*
+    * {{ site.links.reading.reading03 }} is due on *<u>Thursday</u>, August 7 @ 11 PM*
 
 2. **Lecture will be in Dwinelle 219**
    

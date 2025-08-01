@@ -12,6 +12,6 @@ date: 2025-07-13
     * {{site.links.hw.hw02}} is due on *<u>Tuesday</u>, July 22 @ 11 PM*
     * {{ site.links.survey.survey02 }}  is due on *<u>Thursday</u>, July 24 @ 11 PM*
 
-2. Office hours start this week. You can check the [schedule](https://data6.org/su25/schedule/) on the course website.
+2. **Office hours start this week. You can check the [schedule](https://data6.org/su25/schedule/) on the course website.**
 
-3. Fill out the [Tutoring Sign-up Form](https://forms.gle/NurKEQsHbTqfLb6o9) if you'd like to get additional practice on the content.
+3. **Fill out the [Tutoring Sign-up Form](https://forms.gle/NurKEQsHbTqfLb6o9) if you'd like to get additional practice on the content.**
