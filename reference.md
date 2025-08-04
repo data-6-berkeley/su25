@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Python Reference
+title: "&#x1F40D; Python Reference"
 description: >-
     Python Reference Guide
 ---

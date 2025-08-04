@@ -4,4 +4,5 @@ week: 0
 date: 2025-06-02
 ---
 
-* Fill out the welcome survey by the first day of lecture!
+* Welcome to Data 6!
+* Fill out the pre-semester survey by the first week!

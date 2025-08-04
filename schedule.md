@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schedule
+title: "&#x1f5d3; Schedule"
 description: The weekly event schedule.
 nav_order: 2
 ---

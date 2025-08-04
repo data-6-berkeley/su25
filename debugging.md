@@ -1,7 +1,7 @@
 ---
 layout: page
 nav_order: 8
-title: Debugging
+title: "&#x1f9e0 Debugging"
 description: >-
     Debugging
 ---

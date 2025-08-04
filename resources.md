@@ -1,7 +1,7 @@
 ---
 layout: page
 nav_order: 3
-title: Resources
+title: "&#x1F4DA; Resources"
 description: >-
     Resources
 ---
@@ -59,7 +59,8 @@ Exams from previous semesters can be found below. These exams may differ slightl
 | Summer 2022 | | [Exam](https://data6.org/su25/exams/finals/su22.pdf) [(Solutions)](https://data6.org/su25/exams/finals/su22-sol.pdf) |
 
 ## Exam Questions by Topic
-(Adapted from Data 8)
+* Formatting adapted from Data 8
+* View exam questions sorted by topic in document form [here!](https://docs.google.com/document/d/1sEjl9WwAcMoj0YllZyb8ojyGbyNBaXpSHO4iFzdFDCQ/edit?usp=sharing)
 {% include resources-content.html %}
 
 ## Other

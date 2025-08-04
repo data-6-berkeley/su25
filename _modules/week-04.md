@@ -30,5 +30,9 @@ Jul 31
 : **Lab 8**{: .label .label-lab} {{ site.links.lab.lab08 }}
 : **Homework 4**{: .label .label-homework} {{ site.links.hw.hw04 }}  
 
-Aug 1  
+Aug 1
+: **Discussion 8**{: .label .label-discussion} Control, Iteration, Dictionaries
+    : {{ site.links.wksht.wksht08 }}
+: **Discussion 9**{: .label .label-discussion} Navigating Ethics and Impact in Data Visualization
+    : {{ site.links.wksht.wksht09 }}
 : **Survey**{: .label .label-survey} {{ site.links.survey.survey04 }}
