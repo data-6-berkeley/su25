@@ -239,8 +239,7 @@ links:
     survey04: "[Week 04 Survey](https://docs.google.com/forms/d/e/1FAIpQLSeOwMfCZOSSxDY9WMjmbxUDsIGXfz9TBXGNT7dZFK9u8xhzUg/viewform?usp=sharing&ouid=103402950542338937761)"
     survey05: "Week 05 Survey"
   proj:
-    part1: "Final Project Part 1"
-    part2: "Final Project Part 2"
+    final: "Final Project"
 
   lec:
     demo:
