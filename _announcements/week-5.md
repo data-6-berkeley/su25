@@ -16,3 +16,7 @@ date: 2025-08-03
         * **Please fill out this project partner [form](https://docs.google.com/forms/d/e/1FAIpQLSessJvOg7fca9KoZwRHwuPrygN0z8RqNF-0F1teejc1yZHHug/viewform?usp=sharing&ouid=104558629268627618560) by Monday 8 PM!**
 
 2. **Check your email Monday night for your API key! This will be needed for lab and the final project.** 
+
+3. Tutoring covers how to create a chatbot! I highly recommend checkking this out even if you weren't able to join.
+
+    * [Tutoring 05](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Ftut%2Ftut05%2Ftut05.ipynb)
