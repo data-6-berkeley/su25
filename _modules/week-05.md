@@ -27,4 +27,6 @@ Aug 7
 : **Lab 10**{: .label .label-lab} {{ site.links.lab.lab10 }}
 
 Aug 8   
+: **Discussion 10**{: .label .label-discussion} Impacts of LLMs
+    : {{ site.links.wksht.wksht10 }}
 : **Survey**{: .label .label-survey} {{ site.links.survey.survey05 }}  
