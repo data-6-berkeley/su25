@@ -67,3 +67,9 @@ Exams from previous semesters can be found below. These exams may differ slightl
 
 * The Data 8 [Table Function Visualizer](http://data8.org/interactive_table_functions/) is a great tool to see how `.group` and `.pivot` work.
 
+### Guides
+
+* [Visualizations](https://drive.google.com/file/d/1eskqhmvJXe-erOxDmQ4Tb996xhSb_uHL/view?usp=sharing){:target="_blank"}
+* [Table Methods](https://drive.google.com/file/d/1Ub41VuPWPYtD5ZIClt59Hbm5b5yMunRy/view?usp=sharing){:target="_blank"}
+* [Sampling](https://drive.google.com/file/d/15XtZFzcuM2ZP7HpT3xcVxghSsfvnw2GH/view?usp=sharing){:target="_blank"}
+* [Variable Types](https://drive.google.com/file/d/1DNp-l2Jq5eBeQavXjbzZ6QBn9s9i8Z07/view?usp=share_link){:target="_blank"}
