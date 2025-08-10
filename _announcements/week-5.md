@@ -17,5 +17,5 @@ date: 2025-08-03
 
 2. **Check your email Monday night for your API key! This will be needed for lab and the final project.** 
 
-3. Tutoring covers how to create a chatbot! I highly recommend checking this out even if you weren't able to join.
+3. **Tutoring covers how to create a chatbot! I highly recommend checking this out even if you weren't able to join.**
     * [Tutoring 05](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su25&branch=main&urlpath=tree%2Fmaterials-su25%2Ftut%2Ftut05%2Ftut05.ipynb)
