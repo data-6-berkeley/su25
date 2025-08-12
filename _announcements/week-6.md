@@ -9,9 +9,7 @@ date: 2025-08-10
     * {{ site.links.proj.final }} is due on *<u>Saturday</u> August 16 @ 11 PM*
 
 2. **Monday's lecture will be on Zoom! Details can be found on this [Edstem post](https://edstem.org/us/courses/80458/discussion/6856155).**
-
 3. **The Final is on Friday, 10/15, 10-12 PM @SOCS 170**
-
 4. **No tutoring this week**
-
 5. **Fill out course evaluations!**
+6. **Jedi’s OH changes to Tues-Fri, 8-10 PM on [Zoom](https://berkeley.zoom.us/my/jeditsang)**
